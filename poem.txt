@@ -7,5 +7,9 @@ Blue
 Pink
 Audi
 BMW
+Cat
+Dog
+Duck
 These are my fovourite colors.
 And the cars.
+And the animals.
