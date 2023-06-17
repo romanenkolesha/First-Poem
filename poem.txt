@@ -4,4 +4,5 @@ White
 Black
 Red
 Green
+Blue
 These are my fovourite colors.
